@@ -1,0 +1,5 @@
+com\portfolio\com\ContactRequest.class
+com\portfolio\com\ComApplication.class
+com\portfolio\com\EmailService.class
+com\portfolio\com\ContactController.class
+com\portfolio\com\MailConfig.class
